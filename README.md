@@ -1,10 +1,10 @@
 # Covid19_Severity_Misinformation
-This is the data and code repository for our 2020 preprint "Drink bleach or do what now? CoSevMis: A dataset for severity-informed decision making in the presence of COVID19 misinformation", where we explore how severe or risky COVID19 fake news are in the health-related decision making process of the audience. To this end, we release a novel benchmark dataset for risk-aware health misinformation detection, related to the 2019 coronavirus pandemic. Social media posts (Twitter) are annotated based on the likelihood of health behavioral changes and the corresponding risks from following unreliable advice found online.
+This is the data and code repository for our 2020 preprint "Drink bleach or do what now? Covid-HeRA: A dataset for health risk assessment and severity-informed decision making in the presence of COVID19 misinformation", where we explore how severe or risky COVID19 fake news are in the health-related decision making process of the audience. To this end, we release a novel benchmark dataset for risk-aware health misinformation detection, related to the 2019 coronavirus pandemic. Social media posts (Twitter) are annotated based on the likelihood of health behavioral changes and the corresponding risks from following unreliable advice found online.
 
 If you find this dataset, code or results useful, please cite us using the following bibTex:
 ```
 @article{Dharawat2020covid,
-  title={Adapting Sequence to Sequence models for Text Normalization in Social Media},
+  title={"Drink bleach or do what now? Covid-HeRA: A dataset for health risk assessment and severity-informed decision making in the presence of COVID19 misinformation"},
   author={Dharawat, Arkin and Lourentzou, Ismini and Morales, Alex and Zhai, ChengXiang},
   journal={preprint},
   year={2020}
