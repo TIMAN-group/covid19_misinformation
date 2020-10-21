@@ -18,7 +18,7 @@ If you find this dataset, code or results useful, please cite us using the follo
 ```
 
 #### Notes
-To download and pre-process the data, follow these [instructions](https://github.com/TIMAN-group/covid19_misinformation/tree/master/data)
+To download and pre-process the data, follow these [instructions](https://github.com/TIMAN-group/covid19_misinformation/blob/master/data/README.md)
 
 ### Requirements
 - python 3.7.5
