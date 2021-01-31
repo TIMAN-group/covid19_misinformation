@@ -29,3 +29,6 @@ To download and pre-process the data, follow these [instructions](https://github
 - keras==2.4.3
 - pandas==1.0.0
 - tweet-preprocessor==0.6.0
+
+### Labels
+{0: Real News/Claims, 1: Not severe, 2: Possibly severe, 3: Highly severe, 4: Refutes/Rebuts}
