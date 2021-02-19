@@ -10,7 +10,7 @@ from joblib import Parallel, delayed
 
 root_folder = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-with open(os.path.join(root_folder, "twitter_key.txt")) as f:
+with open(os.path.join(root_folder, "data", "twitter_key.txt")) as f:
     consumer_credentials = [
         x.split(",") for x in f.readlines()
     ]  # read only a single line
