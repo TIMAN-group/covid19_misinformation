@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# download CoAID
-git clone https://github.com/cuilimeng/CoAID
-
 # get tweets
 python3 extract_real_and_fake_tweets_coaid.py --data_type 1 # real
 python3 extract_real_and_fake_tweets_coaid.py --data_type 2 # fake
@@ -15,4 +12,3 @@ python3 merge_claim_tweets_fake.py
 python3 merge_claim_tweets_real.py
 python3 merge_news_tweets_fake.py
 python3 merge_news_tweets_real.py
-

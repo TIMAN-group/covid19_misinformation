@@ -2,7 +2,7 @@ import argparse
 
 from dump_raw_tweets import *
 
-folder_path = os.path.join(root_folder, "CoAID")
+folder_path = os.path.join(root_folder, "..", "CoAID")
 
 
 def get_ids_from_csv(filename, id_columns):
