@@ -31,4 +31,4 @@ To download and pre-process the data, follow these [instructions](https://github
 - tweet-preprocessor==0.6.0
 
 ### Labels
-{0: Real News/Claims, 1: Not severe, 2: Possibly severe, 3: Highly severe, 4: Refutes/Rebuts}
+{0: Real News/Claims, 1: Other, 2: Possibly severe, 3: Highly severe, 4: Refutes/Rebuts}
